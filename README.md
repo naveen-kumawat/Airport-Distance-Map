@@ -4,14 +4,20 @@ A beautiful and interactive airport distance map built using **HTML**, **CSS (LE
 
 ---
 
-## 📌 Project Features
+## 🔍 Key Features
 
-- 🎯 Real-time airport distance calculation
-- ✈️ Airplane animation flying between selected points
-- 🧲 Drag-and-drop marker system
-- 🌐 Scalable and responsive SVG map
-- 🎨 Clean and modern UI with custom styling
-- 💡 Fully functional without any backend
+- 📍 Live Airport Distance Measurement
+  Instantly compute the distance between airports by moving markers on the map.
+- ✈️ Animated Flight Path
+  A dynamic airplane animation flies between selected airports for enhanced visualization.
+- 🖱️ Drag-and-Drop Interface
+  Easily reposition airport markers with an intuitive UI.
+-🗺️ Responsive SVG Map
+ Fully scalable SVG map optimized for all devices and screen sizes.
+- 🎨 Modern Design & Custom Styling
+  Clean interface with LESS-based modular styles.
+- ⚙️ Fully Frontend-Based
+  No backend or API calls—runs entirely in the browser.
 
 ---
 
@@ -60,7 +66,7 @@ Or just download the ZIP and extract it.
 npm install -g less
 ```
 
-### Use less compiler to convert less code to css 
+### Then compile the LESS file to CSS:
 
 ```bash
 lessc style.less style.css
