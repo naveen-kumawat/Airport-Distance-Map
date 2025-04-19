@@ -46,23 +46,30 @@ git clone https://github.com/your-username/airport-distance-map.git
 Or just download the ZIP and extract it.
 
 ## 🧪 Step 3: Try It Out
--- Move the markers around the map.
--- Watch the distance update in real-time.
--- Observe the animated airplane flying between points.
+
+- Move the markers around the map.  
+- Watch the distance update in real-time.  
+- Observe the animated airplane flying between points.  
+
+---
 
 ## 📚 Learning Purpose
+
 This project is ideal for:
--- Web development beginners
--- Students learning JavaScript/Vue.js/D3.js
--- Anyone interested in interactive maps or distance calculations
--- Portfolio showcase project
+
+- 🧑‍💻 Web development beginners  
+- 📘 Students learning JavaScript, Vue.js, or D3.js  
+- 🌍 Anyone interested in interactive maps or real-time distance calculations  
+- 💼 Developers looking to build a portfolio-worthy frontend project  
 
 ## 🔗 Connect & Support
+
 If you enjoyed this project or learned something new:
-🌟 Star this repo
-📺 Subscribe to Search4Code on YouTube
-💬 Leave feedback or ideas in the comments
-📢 Share with others to support!
+
+- 🌟 Star this repo
+- 📺 Subscribe to Search4Code on YouTube
+- 💬 Leave feedback or ideas in the comments
+- 📢 Share with others to support!
 
 ## 🧾 License
 This project is open source and available under the MIT License.
