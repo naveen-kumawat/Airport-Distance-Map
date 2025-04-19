@@ -6,18 +6,24 @@ A beautiful and interactive airport distance map built using **HTML**, **CSS (LE
 
 ## 🔍 Key Features
 
-- 📍 Live Airport Distance Measurement
+- 📍 **Live Airport Distance Measurement**  
   Instantly compute the distance between airports by moving markers on the map.
-- ✈️ Animated Flight Path
+
+- ✈️ **Animated Flight Path**  
   A dynamic airplane animation flies between selected airports for enhanced visualization.
-- 🖱️ Drag-and-Drop Interface
+
+- 🖱️ **Drag-and-Drop Interface**  
   Easily reposition airport markers with an intuitive UI.
--🗺️ Responsive SVG Map
- Fully scalable SVG map optimized for all devices and screen sizes.
-- 🎨 Modern Design & Custom Styling
+
+- 🗺️ **Responsive SVG Map**  
+  Fully scalable SVG map optimized for all devices and screen sizes.
+
+- 🎨 **Modern Design & Custom Styling**  
   Clean interface with LESS-based modular styles.
-- ⚙️ Fully Frontend-Based
+
+- ⚙️ **Fully Frontend-Based**  
   No backend or API calls—runs entirely in the browser.
+
 
 ---
 
