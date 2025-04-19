@@ -37,13 +37,34 @@ A beautiful and interactive airport distance map built using **HTML**, **CSS (LE
 ├── main.js             # Core JavaScript logic and animations
 ```
 ---
+
+## 📹 Youtube 
+<a href="https://www.youtube.com/@search4code?sub_confirmation=1">
+  <img src="https://static.vecteezy.com/system/resources/previews/018/930/572/non_2x/youtube-logo-youtube-icon-transparent-free-png.png" alt="YouTube Logo" width="80">
+</a>
+
+
+---
 ## 🚀 How to Use
 ### 📁 Step 1: Clone or Download the Repository
 
 ```bash
-git clone https://github.com/your-username/airport-distance-map.git
+git clone https://github.com/naveen-kumawat/Airport-Distance-Map.git
 ```
 Or just download the ZIP and extract it.
+
+## Step 2: Install dependency
+### Install  Less Compiler 
+
+```bash
+npm install -g less
+```
+
+### Use less compiler to convert less code to css 
+
+```bash
+lessc style.less style.css
+```
 
 ## 🧪 Step 3: Try It Out
 
@@ -51,6 +72,10 @@ Or just download the ZIP and extract it.
 - Watch the distance update in real-time.  
 - Observe the animated airplane flying between points.  
 
+---
+
+### Screenshot
+![map](https://github.com/user-attachments/assets/4f4d6a50-6cb8-4836-90c1-931161a4e8fb)
 ---
 
 ## 📚 Learning Purpose
@@ -72,6 +97,21 @@ If you enjoyed this project or learned something new:
 - 📢 Share with others to support!
 
 ## 🧾 License
-This project is open source and available under the MIT License.
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details. 
+
+## 🌟 Acknowledgments  
+
+Powered by **Search4Code**: Bringing code and creativity together!  
+
+---
+
+## 💬 Feedback  
+
+If you have suggestions or found a bug, feel free to open an issue or contact us via:  
+
+📧 Email: nk75kumawat@gmail.com 
+
+🌐 YouTube: [Search4Code](https://www.youtube.com/@search4code?sub_confirmation=1)
+
 
 
